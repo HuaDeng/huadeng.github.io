@@ -1,6 +1,6 @@
 ---
 layout: default
 ---
-# About
+# Home
 
-I am a PhD student at Rutgers University.
+I am a PhD student at [Rutgers University](https://www.rutgers.edu/).
